@@ -13,7 +13,7 @@
       "w": 3243,
       "h": 304,
       "u": "images/",
-      "p": "img_0.png",
+      "p": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0o",
       "e": 0
     },
     {
@@ -29,7 +29,7 @@
       "w": 3243,
       "h": 304,
       "u": "images/",
-      "p": "img_2.png",
+      "p": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0o",
       "e": 0
     }
   ],
